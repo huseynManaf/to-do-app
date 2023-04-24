@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#aftercreatediv{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin: 10px auto;
+      border: 3px solid  rgb(32, 32, 211);
+      padding: 10px;
+}
+.right{
+    display: flex;
+    gap: 4px;
+}
+.countdiv{
+    
+}
+
